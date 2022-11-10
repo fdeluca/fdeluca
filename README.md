@@ -3,7 +3,7 @@
 [LinkedIn profile](https://www.linkedin.com/in/federicodeluca/)
 
 
-I’ve been working as a software engineer for over 15 years, mainly focused on Java platform.
+I’ve been working as a software engineer for over 20 years, mainly focused on Java platform.
 
 I'm a software development leader with a strong commitment on results but also on innovation and high-quality/scalable software.
 
